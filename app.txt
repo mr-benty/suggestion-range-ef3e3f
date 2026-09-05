@@ -4,7 +4,7 @@
 SAFETY_CHECK = true
 KEEP_A
 KEEP_B
-VALUE = "original"
+VALUE = "maintainer-hardened"
 KEEP_D
 KEEP_E
 // tail
