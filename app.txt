@@ -4,7 +4,7 @@
 SAFETY_CHECK = true
 KEEP_A
 KEEP_B
-VALUE = "from-the-pull-request"
+VALUE = "maintainer-hardened"
 KEEP_D
 KEEP_E
 // tail
