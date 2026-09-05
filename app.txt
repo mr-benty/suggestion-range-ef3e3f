@@ -2,9 +2,9 @@
 // config
 // config
 SAFETY_CHECK = true
-KEEP_A
+KEEP_A_EDITED
 KEEP_B
-VALUE = "original"
+VALUE = "from-the-pull-request"
 KEEP_D
 KEEP_E
 // tail
