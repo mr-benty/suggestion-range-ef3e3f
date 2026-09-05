@@ -1,10 +1,9 @@
 // config
 // config
 // config
-SAFETY_CHECK = true
 KEEP_A
 KEEP_B
-VALUE = "maintainer-hardened"
+VALUE = "renamed"
 KEEP_D
 KEEP_E
 // tail
