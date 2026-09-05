@@ -1,0 +1,12 @@
+// config
+// config
+// config
+SAFETY_CHECK = true
+KEEP_A
+KEEP_B
+VALUE = "original"
+KEEP_D
+KEEP_E
+// tail
+// tail
+// tail
